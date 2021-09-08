@@ -16,3 +16,8 @@ Run `make` to build a container image. You may want to change `TAG_NAME` inside 
 - Stop recording by pressing `Ctrl+D` or `exit`
 
 - Replay the record: `terminalizer play demo`
+
+
+# Example
+
+![screenshot](screenshot.gif)
